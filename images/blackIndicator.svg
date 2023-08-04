@@ -1,0 +1,36 @@
+<svg width="30" height="169" viewBox="0 0 30 169" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_3_1097)">
+<circle cx="15" cy="66" r="10" fill="#ABC6D6"/>
+<circle cx="15" cy="66" r="9.5" stroke="white"/>
+</g>
+<circle cx="15" cy="15" r="13.5" fill="#404354" stroke="white" stroke-width="3"/>
+<circle cx="15" cy="115" r="9.5" fill="#58D7C4" stroke="white"/>
+<circle cx="15" cy="159" r="9.5" fill="#F2CEC6" stroke="white"/>
+<circle cx="15" cy="31" r="1" fill="white"/>
+<circle cx="15" cy="35" r="1" fill="white"/>
+<circle cx="15" cy="39" r="1" fill="white"/>
+<circle cx="15" cy="43" r="1" fill="white"/>
+<circle cx="15" cy="47" r="1" fill="white"/>
+<circle cx="15" cy="85" r="1" fill="white"/>
+<circle cx="15" cy="89" r="1" fill="white"/>
+<circle cx="15" cy="93" r="1" fill="white"/>
+<circle cx="15" cy="97" r="1" fill="white"/>
+<circle cx="15" cy="101" r="1" fill="white"/>
+<circle cx="15" cy="129" r="1" fill="white"/>
+<circle cx="15" cy="133" r="1" fill="white"/>
+<circle cx="15" cy="137" r="1" fill="white"/>
+<circle cx="15" cy="141" r="1" fill="white"/>
+<circle cx="15" cy="145" r="1" fill="white"/>
+<defs>
+<filter id="filter0_d_3_1097" x="1" y="55" width="28" height="28" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="3"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_3_1097"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_3_1097" result="shape"/>
+</filter>
+</defs>
+</svg>
